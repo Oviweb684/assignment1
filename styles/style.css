@@ -252,7 +252,7 @@ footer {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 35%;
+    width: 30%;
 }
 
 .copyright {
@@ -379,5 +379,33 @@ line-height: 32px;
     border-radius: 16px;
     padding-left: 15px;
     padding-bottom: 10px;
+
+}
+.sixdown{
+    justify-content: space-between;
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+.box{
+    width: 400px;
+    height: 400px;
+}
+.girl{
+    width: 420px;
+    height: 430px;
+   
+}
+hr{
+    width: 1320px;
+height: 1px;
+color: #708090;
+margin-top: 30px;
+margin-bottom: 30px;
 
 }
