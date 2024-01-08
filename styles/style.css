@@ -137,7 +137,8 @@
 }
 
 .three-line {
-    color: black font-family: Inter;
+    color: black ;
+    font-family: Inter;
     font-size: 32px;
     font-weight: 600;
     line-height: 56px;
@@ -180,7 +181,8 @@
 }
 
 #news-input {
-    color: black text-align: center;
+    color: black ;
+    text-align: center;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
