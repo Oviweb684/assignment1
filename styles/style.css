@@ -1,0 +1,65 @@
+.banner {
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;      
+}
+
+#start-title {
+    text-align: center;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 180px;
+}
+
+.head-title {
+    text-align: center;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 40px;
+    padding-left: 345px;
+    padding-right: 345px;
+
+}
+#bottom-title{
+    padding-bottom: 180px;
+}
+
+/*second section style*/
+.second-section{
+  
+}
+.discount{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+margin-bottom: 0px;
+}
+.red-text{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+.third-line{
+    margin-top: 20px;
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.new-year{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
